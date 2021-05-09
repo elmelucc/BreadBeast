@@ -14,3 +14,8 @@ Some pictures of the BreadBeast board and program:
 
 ![A picture of the Bread Beast](images/BreadBeast.jpg)
 
+![A picture of the Bread Beast home screen](images/breadbeasthome.jpg)
+
+![A picture of the Bread Beast measure screen](images/breadbeastmeasure.jpg)
+
+![A picture of the Bread Beast learn screen](images/breadbeastlearn.jpg)
